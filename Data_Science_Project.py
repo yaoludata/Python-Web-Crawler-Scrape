@@ -1,3 +1,8 @@
+# By Yao Lu
+# Multi-class Predictions Data Science Project 
+# includes data wrangling, data analysis, data visualization, and data modelling (build and evaluate machine learning prediction model)
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
