@@ -1,4 +1,6 @@
 # Web crawler: get movie TOP250 information
+# Problem requirement:
+# crawl all the serial numbers/movie names/ratings/recommendations/links in Movie TOP250, and the result is to display and print them all
 
 # import requests and BeautifulSoup
 import requests
